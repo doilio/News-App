@@ -1,4 +1,4 @@
-## Project 4: News App
+## Project 6: News App
 ## Project Overview
  > The goal is to create a News Feed app which gives a user regularly-updated news from the Internet related to a particular topic, person, or location. The presentation of the information as well as the topic is up to you.
 To achieve this, you will use the Guardian API. This is a well-maintained API which returns information in a JSON format.

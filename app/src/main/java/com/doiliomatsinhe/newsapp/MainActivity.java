@@ -134,6 +134,7 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
     @Override
     public void onLoadFinished(@NonNull Loader<String> loader, String data) {
 
+        newsList = new ArrayList<>();
         // Fazer Parse do JSON
         try {
             JSONObject jsonObject = new JSONObject(data);

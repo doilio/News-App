@@ -18,7 +18,7 @@ class NetworkUtils {
     private static final String BASE_URL = "http://content.guardianapis.com/search?";
     private static final String QUERY_PARAM = "q";
     private static final String API_KEY = "api-key";
-    private static final String GET = "get";
+    private static final String GET = "GET";
 
 
     /**
